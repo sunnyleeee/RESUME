@@ -1,4 +1,4 @@
-# RESUME ( LEE SUN JAE )
+#  LEE SUN JAE 
 
 <img src=myNameIsSunJaeLee.jpg width=550 height = 375>  
 
@@ -7,9 +7,10 @@
 #### 나이: 23세(2020기준)  
 #### E-mail : tjswo98sj06@gmail.com
 #### University : hallym university
+#### 軍 : 예비역
 
 > 취미  
->> 스케이트 보드  
+>> **스케이트 보드**  
 >> 낚시  
 >> 록음악 감상  
 >> 산책하기  
@@ -35,20 +36,12 @@
 [네이버][naver]  
 [유투브][youtube]
 
-### 마크언어 문법 강조  
-
-기본 문구  
-*기본강조 문구*  
-_기본강조 문구_  
-**강조 문구**  
-__강조 문구__  
-~~언더라인~~
-
+## 학년 별 공부
 |학년|언어|개발도구|
-|:---:|---|---|
-|1|[자바](http://www.oracle.com)|[이클립스][eclipse]|
-|2|C|비주얼스튜디오|
-|3|C++|비주얼스튜디오|
+|:---:|---|-----|
+|1|자바|학교 자체 툴|
+|2-1|C|비주얼스튜디오|
+|2-2|Unity|Unity Hub|
 
 
 [eclipse]: http://www.eclipse.org
