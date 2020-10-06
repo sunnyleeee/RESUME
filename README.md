@@ -3,4 +3,11 @@
 ## 개인 이력사항  
 #### 이름: 이선재  
 #### E-mail : tjswo98sj06@gmail.com
-#### university : hallym university
+#### University : hallym university
+
+> 취미  
+>> 스케이트 보드  
+>> 낚시  
+>> 록음악 감상  
+>> 산책하기  
+
