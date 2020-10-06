@@ -22,6 +22,9 @@
 * R언어  
 * 유니티
 * 스케이트보드  
+
+![my](/myNameIsSunJaeLee.jpg)
+
 ## 오픈소스 커뮤니티 정리파일  
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)  
 -----  
