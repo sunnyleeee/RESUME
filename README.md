@@ -23,7 +23,7 @@
 * 유니티
 * 스케이트보드  
 
-![my](/myNameIsSunJaeLee.jpg)
+<img src=myNameIsSunJaeLee.jpg width=550 height = 375>
 
 ## 오픈소스 커뮤니티 정리파일  
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)  
