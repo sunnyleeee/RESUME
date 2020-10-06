@@ -22,3 +22,7 @@
 * R언어  
 * 유니티
 * 스케이트보드  
+
+-----
+* Samsung notebook  
+* tensorflow
