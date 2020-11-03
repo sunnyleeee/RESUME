@@ -10,11 +10,11 @@
 #### University : hallym university
 
 ## 사진만을 보고 맞추는 퀴즈!!
-1. 사람이 가득찬 강당에서 마술공연을 해봤다!  
-2. 과 수석을 해본 적이 있다!  
-3. 운이 좋다!  
-4. 나는 TV에 출현한 적이 있다!  
-5. 보드를 타다 전치 7주 상처가 난 적이 있다!  
+1. 사람이 가득찬 강당에서 마술공연을 해봤다! [정답][answer]  
+2. 과 수석을 해본 적이 있다! [정답][nonanswer]  
+3. 운이 좋다! [정답][answer]  
+4. 나는 TV에 출현한 적이 있다! [정답][answer]  
+5. 보드를 타다 전치 7주 상처가 난 적이 있다! [정답][answer]  
  
 
 ## 취미  
@@ -60,4 +60,5 @@
 [tussa]: http://skateboardtussa.com/
 [youtube]: https://www.youtube.com/
 [programmers]: https://programmers.co.kr/
-
+[answer]: https://blog.naver.com/tj2365/222134640530  
+[nonanswer]: https://blog.naver.com/tj2365/222134640173  
