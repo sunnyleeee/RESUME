@@ -1,13 +1,14 @@
-#  LEE SUN JAE 
+#  😊WELCOME LEE SUN JAE'S GIT!😊  
 
-## 개인 이력사항  
-#### 이름: 이선재  
+#  
+## Who Am I?!  
+#### 이름: 이선재 (李瑄宰)  
 #### 나이: 23세(2020기준)  
 #### E-mail : tjswo98sj06@gmail.com
 #### High School : Paichai High School
-#### University : hallym university
+#### University : hallym university  
 
-## 사진만을 보고 맞추는 퀴즈!!
+## 🎉사진만을 보고 맞추는 퀴즈!!🎉
 ~~자기 소개서를 읽기 전 몸풀기!~~
 
 <img src=myNameIsSunJaeLee.jpg width=550 height = 375>  
