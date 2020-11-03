@@ -6,8 +6,8 @@
 #### 이름: 이선재  
 #### 나이: 23세(2020기준)  
 #### E-mail : tjswo98sj06@gmail.com
+#### High School : Paichai High School
 #### University : hallym university
-#### 軍 : 예비역
 
 ## 취미  
 >> **스케이트 보드**  
