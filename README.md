@@ -1,23 +1,28 @@
 #  LEE SUN JAE 
 
-<img src=myNameIsSunJaeLee.jpg width=550 height = 375>  
-<img src=bike.jpg width=550 height = 375>  
-<img src=trip.jpg width=550 height = 375>  
-<img src=board.jpg width=550 height = 375>  
-
-## 사진만을 보고 맞추는 퀴즈!!
-1. 자전거를 타고 서울부터 부산을 가본 적이 있다! [정답][answer]  
-2. 과 수석을 해본 적이 있다! [정답][nonanswer]  
-3. 운이 좋다! [정답][answer]  
-4. 나는 TV에 출현한 적이 있다! [정답][answer]  
-5. 보드를 타다 전치 7주 상처가 난 적이 있다! [정답][answer]  
- 
 ## 개인 이력사항  
 #### 이름: 이선재  
 #### 나이: 23세(2020기준)  
 #### E-mail : tjswo98sj06@gmail.com
 #### High School : Paichai High School
 #### University : hallym university
+
+## 사진만을 보고 맞추는 퀴즈!!
+~~자기 소개서를 읽기 전 몸풀기!~~
+
+<img src=myNameIsSunJaeLee.jpg width=550 height = 375>  
+<img src=bike.jpg width=550 height = 500>  
+<img src=trip.jpg width=550 height = 600>  
+<img src=board.jpg width=550 height = 550>  
+
+1. 자전거를 타고 서울부터 부산을 가본 적이 있다! [정답][answer]  
+2. 과 수석을 해본 적이 있다! [정답][nonanswer]  
+3. 운이 좋다! [정답][answer]  
+4. 나는 TV에 출현한 적이 있다! [정답][answer]  
+5. 보드를 타다 전치 7주 상처가 난 적이 있다! [정답][answer]  
+
+ 
+
 
 ## 취미  
 >> **스케이트 보드**  
