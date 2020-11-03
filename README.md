@@ -52,3 +52,5 @@
 [tussa]: http://skateboardtussa.com/
 [youtube]: https://www.youtube.com/
 [programmers]: https://programmers.co.kr/
+[answer] :https://cafe.naver.com/common/storyphoto/viewer.html?src=https%3A%2F%2Fcafeptthumb-phinf.pstatic.net%2FMjAxOTExMjJfMjA2%2FMDAxNTc0Mzk3ODU2NTEy.VXW-6-l_arYP0tWU1126NiJHQu4AGMmxg6B1ry1k3agg.WhKy7HGw0atBnkyxZmN8iA5BmR7rgY-rYrwXOdpF8Ikg.JPEG%2FexternalFile.jpg%3Ftype%3Dw1600
+[nonanswer] : https://cafe.naver.com/common/storyphoto/viewer.html?src=https%3A%2F%2Fcafeptthumb-phinf.pstatic.net%2FMjAxOTExMjJfMTky%2FMDAxNTc0Mzk3ODU3MDE3.XGDU5wPRFYcUBj9WS7qwH3hbBcnQyn88WPEap8KKmRgg.SXPOO_uyOKGLmL5IysUWuEOI4Xr_CMC6vRBP4aFSQJcg.JPEG%2FexternalFile.jpg%3Ftype%3Dw1600
